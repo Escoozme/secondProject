@@ -1,0 +1,14 @@
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\bin\Debug\JSmetanaACP2_1.exe.config
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\bin\Debug\JSmetanaACP2_1.exe
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\bin\Debug\JSmetanaACP2_1.pdb
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.csprojAssemblyReference.cache
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.frmMain.resources
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.Properties.Resources.resources
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.csproj.GenerateResource.cache
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.exe
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.pdb
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.frmIO.resources
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.frmMouser.resources
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.frmAbout.resources
+C:\Users\Jacob\Desktop\2021 Fall\Advanced Computer Programming\Unit 2 - Adv C# Topics\JSmetanaACP2_1\JSmetanaACP2_1\obj\Debug\JSmetanaACP2_1.frmSplash.resources
